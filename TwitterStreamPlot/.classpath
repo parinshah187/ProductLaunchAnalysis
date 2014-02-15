@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/Workspace/TwitterStreamPlot/lib/chartmaker-0.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/TwitterStreamPlot/lib/charts4j-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/TwitterStreamPlot/lib/JRI.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/TwitterStreamPlot/lib/JRIEngine.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/TwitterStreamPlot/lib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/TwitterStreamPlot/lib/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/TwitterStreamPlot/lib/RCaller-2.0.7.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/TwitterStreamPlot/lib/REngine.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/TwitterStreamPlot/lib/spring-core-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/TwitterStreamPlot/lib/twitter4j-async-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/TwitterStreamPlot/lib/twitter4j-core-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/TwitterStreamPlot/lib/twitter4j-examples-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/TwitterStreamPlot/lib/twitter4j-media-support-3.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/TwitterStreamPlot/lib/twitter4j-stream-3.0.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
